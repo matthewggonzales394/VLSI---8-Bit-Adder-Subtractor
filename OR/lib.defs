@@ -1,0 +1,5 @@
+DEFINE Generic_250nm_Devices ..\..\TannerTools_v2022.2\Process\Generic_250nm\Generic_250nm_Devices
+ASSIGN Generic_250nm_Devices libMode shared
+DEFINE OR OR
+ASSIGN OR libMode shared
+INCLUDE C:\Tanner\TannerEDA\TannerTools_v2022.2\Process\Generic_250nm\lib.defs
