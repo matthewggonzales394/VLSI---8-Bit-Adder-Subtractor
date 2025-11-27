@@ -1,0 +1,6 @@
+DEFINE Generic_250nm_Devices ..\..\TannerTools_v2022.2\Process\Generic_250nm\Generic_250nm_Devices
+ASSIGN Generic_250nm_Devices libMode shared
+DEFINE Full_Adder Full_Adder
+ASSIGN Full_Adder libMode shared
+INCLUDE C:\Tanner\TannerEDA\Components\AND\lib.defs
+INCLUDE C:\Tanner\TannerEDA\Components\XOR\lib.defs
